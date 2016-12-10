@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListActivity</string>
+    <string-array name="arrayProds">
+        <item>sofa</item>
+        <item>chair</item>
+        <item>table</item>
+        <item>lamp</item>
+    </string-array>
+
+
+</resources>

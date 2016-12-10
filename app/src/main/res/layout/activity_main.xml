@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="edu.mnstate.cw3967me.listactivity.MainActivity">
+
+    <ListView
+        android:id="@+id/prod_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <!--3.3 ListView with ArrayAdapter-->
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+</LinearLayout>
